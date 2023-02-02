@@ -11,7 +11,7 @@
 - 💬 Ask me about **.NET C#, SQL Server, JavaScript, ReactJS**
 ## 🔗 Connect with me
 
-[![Linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raulcv)
+[![Linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/iraulcv)
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iraulcv)
 [![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=yellow)](https://twitter.com/iraulcv)
 [![YouTube](https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/raulcv)
