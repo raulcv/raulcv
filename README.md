@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=yellow)](https://twitter.com/iraulcv)
 [![YouTube](https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/raulcv)
 
-## 🗺️ Languages and Tools
+## 🛠️ Languages and Tools
 <p align="center" backgroundColor="white"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
