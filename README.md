@@ -24,8 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulcv&show_icons=true&locale=en&layout=compact&theme=radical" alt="raulcv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raulcv&show_icons=true&locale=en&theme=radical" alt="raulcv" /></p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raulcv&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 #
 <h3 align="center">🤗 You'll make me 🐣</h3>
