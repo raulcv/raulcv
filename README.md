@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFZaWUONbc/x-71f_B4nbTjZ3Q1xKo5mg/view?utm_content=DAFZaWUONbc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://raulcv.com)
+[![MasterHead](https://github.com/raulcv/raulcv/blob/main/images/githubbanner.png)](https://raulcv.com)
 <h1 align="center">Hello 👋, I'm Raul</h1>
 <h3 align="center">A passionate full stack web and apps developer</h3>
 
