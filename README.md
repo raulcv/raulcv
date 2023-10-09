@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/raulcv/raulcv/blob/main/images/githubbanner_two.png)](https://raulcv.com)
+[![MasterHead](https://github.com/raulcv/raulcv/blob/main/images/githubbanner.png)](https://raulcv.com)
 <h1 align="center">Hello there 👋, I'm Raul</h1>
 <h3 align="center">A passionate full stack web and apps developer</h3>
 
